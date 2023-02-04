@@ -1,7 +1,14 @@
-3D Text With Blip 
+# 3D Text With Blips
+
+This script adds 3D Text to any location you would like.
 ___________________________________________________
-How To Change 3d Text: Change Line 52 CHANGEME! To Whatever You Like
+## How To Change 3d Text;
+### Client.lua
+Change Vector 1, 2, & 3 to whatever chords you would like the 3d text to be at
+Change Line 52 CHANGEME! To Whatever You Like
 ___________________________________________________
-This Script Was Made By NoNo From Hunter's Development
-___________________________________________________
-Join The Discord If You Have Any Questions --> https://discord.gg/MS3n2DuUng
+[My Company](https://www.huntermodifications.org)
+
+[My Discord](https://discord.gg/T8gCxj5nUN)
+
+![Marty Robbins](https://media.discordapp.net/attachments/1063610536538939512/1071337543460724768/Marty_1.png?width=240&height=240)
