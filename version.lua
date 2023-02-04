@@ -6,11 +6,16 @@ end
 
 local branding = 
 [[
-||       _ __    ___     _ __    ___
-||      | '_ \  / _ \   | '_ \  / _ \
-||      | | | | |(_)|   | | | | |(_)|
-||      |_| |_| \___/   |_| |_| \___/ 
-||		Made By NoNo
+|| 
+|| $$\   $$\           $$\   $$\           
+|| $$$\  $$ |          $$$\  $$ |          
+|| $$$$\ $$ | $$$$$$\  $$$$\ $$ | $$$$$$\  
+|| $$ $$\$$ |$$  __$$\ $$ $$\$$ |$$  __$$\ 
+|| $$ \$$$$ |$$ /  $$ |$$ \$$$$ |$$ /  $$ |
+|| $$ |\$$$ |$$ |  $$ |$$ |\$$$ |$$ |  $$ |
+|| $$ | \$$ |\$$$$$$  |$$ | \$$ |\$$$$$$  |
+|| \__|  \__| \______/ \__|  \__| \______/ 
+||                                                                                 
    ]]
 
 -- Grabs the latest version number from the web GitHub
@@ -32,9 +37,9 @@ PerformHttpRequest( "https://github.com/NoNoTheGoat/3D-Text-With-Blip", function
 
 		-- If the versions are different, print it out
 		if ( text ~= curVer ) then
-			print( "  ||    ^1Your Tornado Script version is outdated, visit the FiveM forum post to get the latest version.\n^0  \\\\\n" )
+			print( "  ||    ^1Your 3D Text Script version is outdated, visit the github post to get the latest version.\n^0  \\\\\n" )
 		else
-			print( "  ||    ^2Tornado Script is up to date!\n^0  ||\n  \\\\\n" )
+			print( "  ||    ^3D Text Script is up to date!\n^0  ||\n  \\\\\n" )
 		end
 	else
 		-- In case the version can not be requested, print out an error message
