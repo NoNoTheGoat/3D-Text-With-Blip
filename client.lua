@@ -1,7 +1,7 @@
 
-local v1 = vector3(2045.98, 3447.95, 44.86)
-local v2 = vector2(2045.98, 3449.83)
-local v3 = vector4(2045.98, 3447.95, 44.86, 360)
+local v1 = vector3(2045.98, 3447.95, 44.86) -- 3D Text Location X,Y,Z
+local v2 = vector2(2045.98, 3449.83) -- Blip X,Y
+local v3 = vector4(2045.98, 3447.95, 44.86, 360)  -- Command For TP X,Y,Z,Heading
 
 local blip = AddBlipForCoord(v2.x, v2.y)
 SetBlipSprite(blip, 364)
