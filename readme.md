@@ -1,5 +1,6 @@
 # 3D Text With Blips
 
+# MAKE SURE TO GET THE LATEST RELEASE
 This script adds 3D Text to any location you would like.
 ___________________________________________________
 ## How To Change 3d Text;
