@@ -1,6 +1,6 @@
 # 3D Text With Blips
 
-# MAKE SURE TO GET THE LATEST RELEASE
+# MAKE SURE TO GET THE LATEST [RELEASE](https://github.com/NoNoTheGoat/3D-Text-With-Blip/releases/download/Update/3D-Text-With-Blip.zip)
 This script adds 3D Text to any location you would like.
 ___________________________________________________
 ## How To Change 3d Text;
